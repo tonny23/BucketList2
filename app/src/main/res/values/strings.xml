@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BucketList</string>
+    <string name="input_required">Input required</string>
+</resources>
